@@ -71,3 +71,4 @@ local_config.py
 
 # Project specific
 videos/
+api_cache.json
